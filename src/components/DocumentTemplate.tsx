@@ -26,7 +26,7 @@ const DocumentTemplate = () => {
                 </div>
 
                 <div className="container flex flex-col justify-center items-center">
-                    <p className="font-bold">Բնակելի միկրոշրջան, ք․ Երևան, Աջափնյակ, Տիչինա 320 - Շենք Nº 55 ՏԻՊ 2-Հ</p>
+                    <p className="font-bold">Բնակելի միկրոշրջան, ք․ Երևան, Աջափնյակ, Տիչինա 300 - Շենք Nº 55 ՏԻՊ 2-Հ</p>
                     <hr className=" w-full border-1 border-black"/>
                     <p className="text-[10px] font-thin">(օբյեկտի անվանումը և տեղը(հասցեն))</p>
                 </div>
@@ -40,7 +40,7 @@ const DocumentTemplate = () => {
                 <div className="container flex gap-2">
                     <p className="text-[10px] font-thin flex justify-start items-center">Պատասխանատու՝</p>
                     <div className="w-full">
-                        <p className="font-bold flex justify-center">Գլխավոր ինժեներ՝ Գ․ Դալլաքյան</p>
+                        <p className="font-bold flex justify-center">Գլխավոր ինժեներ՝ Գ․ Հարությունյան</p>
                         <hr className="w-full border-1 border-black"/>
                         <p className="text-[10px] font-thin flex justify-center">(Ա․Ա․Հ)</p>
                     </div>
@@ -50,7 +50,7 @@ const DocumentTemplate = () => {
                     <p className="w-2/5 text-[10px] font-thin flex justify-start items-center">Պատասխանատուի տեխն․
                         հսկողության ինժեներ և ներկայացուցիչներ՝</p>
                     <div className="w-full">
-                        <p className="font-bold flex justify-center">«Հալդի Քոնսալթ» ՍՊԸ տեխ․ հսկ․՝ Ռ․ Եղիազարյան</p>
+                        <p className="font-bold flex justify-center">«ԱԱԲ» ՍՊԸ տեխ․ հսկ․՝ Ռ․ Երանյան</p>
                         <hr className="w-full border-1 border-black"/>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ const DocumentTemplate = () => {
                 <div className="container flex gap-2">
                     <p className="w-2/5 text-[10px] font-thin flex justify-start items-center">Գլծավոր կապալառուի՝</p>
                     <div className="w-full">
-                        <p className="font-bold flex justify-center">«Շին Վեկտոր» ՍՊԸ Գլխավոր ինժեներ՝ Գ․ Դալլաքյան</p>
+                        <p className="font-bold flex justify-center">«Շին Հալս» ՍՊԸ Գլխավոր ինժեներ՝ Գ․ Հարությունյան</p>
                         <hr className="w-full border-1 border-black"/>
                         <p className="text-[10px] font-thin flex justify-center">(Ա․Ա․Հ պաշտոնը)</p>
                     </div>
@@ -76,7 +76,7 @@ const DocumentTemplate = () => {
                 <div className="container flex gap-2">
                     <p className="w-2/5 text-[10px] font-thin flex justify-start items-center">ենթակապալառուի՝</p>
                     <div className="w-full">
-                        <p className="font-bold flex justify-center">«Ֆուլ-արտ» ՍՊԸ կոնստրուկտոր՝ Տ․ Խաչիյան</p>
+                        <p className="font-bold flex justify-center">«Ֆուլ- Ար» ՍՊԸ կոնստրուկտոր՝ Տ․ Սամվելյան</p>
                         <hr className="w-full border-1 border-black"/>
                         <p className="text-[10px] font-thin flex justify-center">(Ա․Ա․Հ պաշտոնը)</p>
                     </div>
@@ -98,7 +98,7 @@ const DocumentTemplate = () => {
                 </div>
 
                 <div className="container w-full">
-                    <p className="font-bold flex justify-start">1. «Շին Վեկտոր» ՍՊԸ Գլխավոր ինժեներ Գ․ Դալլաքյան</p>
+                    <p className="font-bold flex justify-start">1. «Շին Հալս» ՍՊԸ Գլխավոր ինժեներ Գ․ Հարությունյան</p>
                     <hr className="w-full border-1 border-black"/>
                     <p className="text-[10px] font-thin flex justify-center">(լիցենզավորված կազզմակերպության անունը,
                         մասնագետի Ա․Ա․Հ)</p>
@@ -149,25 +149,25 @@ const DocumentTemplate = () => {
                     <div className="w-full font-bold flex justify-start items-end gap-10">
                         <p className="w-[180px]">Տեխնիկական հսկողություն՝</p>
                         <hr className="w-2/5 border-1 border-black"/>
-                        <p>Ռ․ Եղիազարյան</p>
+                        <p>Ռ․ Երանյան</p>
                     </div>
 
                     <div className="w-full font-bold flex justify-start items-end gap-10">
                         <p className="w-[180px]">Աշղեկ՝</p>
                         <hr className="w-2/5 border-1 border-black"/>
-                        <p>Գ․ Խաչատրյան</p>
+                        <p>Գ․ ԱՆանյան</p>
                     </div>
 
                     <div className="w-full font-bold flex justify-start items-end gap-10">
                         <p className="w-[180px]">Հեղինակային հսկողություն՝</p>
                         <hr className="w-2/5 border-1 border-black"/>
-                        <p>Տ․ Խաչիյան</p>
+                        <p>Տ․ Սամվելյան</p>
                     </div>
 
                     <div className="w-full font-bold flex justify-start items-end gap-10">
                         <p className="w-[180px]">Գլխավոր ինժեներ՝</p>
                         <hr className="w-2/5 border-1 border-black"/>
-                        <p>Գ․ Դալլաքյան</p>
+                        <p>Գ․ Հարությունյան</p>
                     </div>
 
                 </div>
