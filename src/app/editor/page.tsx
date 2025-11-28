@@ -36,7 +36,7 @@ export default function EditorPage() {
   return (
     <div className="min-h-[calc(100vh-128px)] bg-gray-50 py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="mb-8 flex justify-between items-center">
+        <div className="mb-8 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 sm:gap-0">
           <div>
             <h1 className="text-3xl font-bold text-gray-900">
               Փաստաթղթի խմբագրիչ
