@@ -1,7 +1,7 @@
 const DocumentTemplate = () => {
   return (
     <>
-      <div className="w-[595px] min-h-[842px] sm:w-[794px] sm:min-h-[1123px] text-[10px] sm:text-[13px] flex flex-col gap-2 border-1 border-black p-4 sm:p-7">
+      <div className="w-[320px] min-h-[450px] sm:w-[595px] sm:min-h-[842px] md:w-[794px] md:min-h-[1123px] text-[8px] sm:text-[10px] md:text-[13px] flex flex-col gap-1 sm:gap-2 border-1 border-black p-2 sm:p-4 md:p-7">
         <div className="container">
           <div className="w-full flex items-center justify-end">
             <p className="w-41 text-[10px]">
